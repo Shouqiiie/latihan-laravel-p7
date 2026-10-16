@@ -38,7 +38,7 @@ class CompanyProfileTest extends TestCase
         $response = $this->get('/tentang-kami');
 
         $response->assertStatus(200);
-        $response->assertSee('Tentang Rahmah Travel');
+        $response->assertSee('Tentang Kami');
         $response->assertSee('Visi Perusahaan');
         $response->assertSee('Misi Perusahaan');
     }
@@ -52,8 +52,8 @@ class CompanyProfileTest extends TestCase
 
         $response->assertStatus(200);
         $response->assertSee('Daftar Paket Umroh');
-        $response->assertSee('images/packages/package-1.svg');
-        $response->assertSee('Paket Umroh Reguler Barokah 9 Hari');
+        $response->assertSee('images/packages/package-1.jpg');
+        $response->assertSee('Paket Umroh High Season Plus Thoif by IndiGo (12 Hari)');
     }
 
     /**
@@ -81,7 +81,7 @@ class CompanyProfileTest extends TestCase
         $response = $this->get('/kontak');
 
         $response->assertStatus(200);
-        $response->assertSee('Kontak Rahmah Travel');
+        $response->assertSee('Kontak Kami');
         $response->assertSee('Kantor Pusat Jakarta');
     }
 }
