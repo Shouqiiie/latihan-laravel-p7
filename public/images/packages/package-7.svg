@@ -12,7 +12,7 @@
   <rect width="640" height="400" fill="url(#grad7)" />
   <rect width="640" height="400" fill="url(#pattern7)" />
 
-  <!-- Moon & Star Symbol -->
+  <!-- Moon and Star Symbol -->
   <g transform="translate(520, 60)" opacity="0.3">
     <path d="M25 0 A25 25 0 1 0 50 25 A30 30 0 0 1 25 0 Z" fill="#ffffff" />
     <polygon points="52,10 55,18 63,18 57,22 59,30 52,25 45,30 47,22 41,18 49,18" fill="#fbbf24" />
@@ -54,8 +54,8 @@
   <!-- Footer Info in Card -->
   <line x1="50" y1="260" x2="590" y2="260" stroke="rgba(255,255,255,0.15)" stroke-width="1" />
   
-  <text x="50" y="300" fill="#fde68a" font-family="sans-serif" font-size="13" font-weight="bold">RAHMAH TRAVEL &bull; PT RAHMAH GROUP INTERNASIONAL</text>
-  <text x="50" y="325" fill="rgba(255,255,255,0.7)" font-family="sans-serif" font-size="12">PPIU No. U.421 Kemenag RI &bull; Pasti Berangkat, Pasti Berkah</text>
+  <text x="50" y="300" fill="#fde68a" font-family="sans-serif" font-size="13" font-weight="bold">RAHMAH TRAVEL &#8226; PT RAHMAH GROUP INTERNASIONAL</text>
+  <text x="50" y="325" fill="rgba(255,255,255,0.7)" font-family="sans-serif" font-size="12">PPIU No. U.421 Kemenag RI &#8226; Pasti Berangkat, Pasti Berkah</text>
   
   <g transform="translate(480, 290)">
     <rect width="110" height="36" rx="8" fill="#10b981" />
