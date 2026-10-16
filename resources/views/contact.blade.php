@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Kontak Kami - Rahmah Travel | Rahmah Group Internasional')
+@section('title', 'Kontak Kami - Rahmah Travel | PT Rahmah Group Internasional')
 
 @section('content')
     <!-- Banner Header Halaman -->

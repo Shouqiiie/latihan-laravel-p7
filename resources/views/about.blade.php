@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Tentang Kami - Profil Rahmah Group Internasional & Rahmah Travel')
+@section('title', 'Tentang Kami - Profil PT Rahmah Group Internasional & Rahmah Travel')
 
 @section('content')
     <!-- Banner Header Halaman -->
@@ -9,7 +9,7 @@
             <span class="text-xs uppercase tracking-wider text-amber-400 font-bold">Menu 2 &bull; Profil Perusahaan</span>
             <h1 class="text-3xl sm:text-4xl font-extrabold mt-1">Tentang Rahmah Travel</h1>
             <p class="text-emerald-200 text-sm mt-2 max-w-2xl">
-                Mengenal lebih dekat Rahmah Travel, divisi perjalanan ibadah umroh dan haji khusus dari Rahmah Group Internasional.
+                Mengenal lebih dekat Rahmah Travel, divisi perjalanan ibadah umroh dan haji khusus dari PT Rahmah Group Internasional.
             </p>
         </div>
     </div>
@@ -23,7 +23,7 @@
                 <h2 class="text-2xl font-bold text-gray-900 mt-1 mb-4">Melayani Tamu Allah Sejak 2012</h2>
                 <div class="space-y-3 text-sm text-gray-600 leading-relaxed">
                     <p>
-                        <strong>Rahmah Group Internasional</strong> didirikan sebagai holding company yang bergerak di bidang pelayanan ummat internasional, mencakup biro perjalanan ibadah (Rahmah Travel), perhotelan di Timur Tengah, serta layanan katering haji &amp; umroh.
+                        <strong>PT Rahmah Group Internasional</strong> didirikan sebagai holding company yang bergerak di bidang pelayanan ummat internasional, mencakup biro perjalanan ibadah (Rahmah Travel), perhotelan di Timur Tengah, serta layanan katering haji &amp; umroh.
                     </p>
                     <p>
                         Melalui <strong>Rahmah Travel</strong>, kami berkomitmen menghadirkan perjalanan ibadah yang aman, nyaman, dan berpegang teguh pada tuntunan Al-Qur'an dan As-Sunnah. Hingga kini, kami telah memberangkatkan lebih dari 25.000 jamaah dari seluruh penjuru Indonesia.
@@ -89,7 +89,7 @@
         <div class="pt-6 border-t border-gray-200">
             <div class="text-center max-w-xl mx-auto mb-8">
                 <span class="text-emerald-700 font-bold text-xs uppercase tracking-wider">Budaya Kerja Kami</span>
-                <h2 class="text-2xl font-bold text-gray-900 mt-1">Nilai-Nilai Utama Rahmah Group</h2>
+                <h2 class="text-2xl font-bold text-gray-900 mt-1">Nilai-Nilai Utama PT Rahmah Group</h2>
             </div>
             <div class="grid grid-cols-2 md:grid-cols-4 gap-4">
                 <div class="bg-white p-5 rounded-lg border border-gray-200 text-center">

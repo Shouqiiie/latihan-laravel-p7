@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Beranda - Rahmah Travel | Rahmah Group Internasional')
+@section('title', 'Beranda - Rahmah Travel | PT Rahmah Group Internasional')
 
 @section('content')
     <!-- Hero Section -->
@@ -15,7 +15,7 @@
                         Wujudkan Niat Suci ke Baitullah dengan Tenang &amp; Berkah
                     </h1>
                     <p class="text-emerald-100 text-base sm:text-lg mb-8 leading-relaxed">
-                        <strong>Rahmah Travel</strong> (unit usaha <strong>Rahmah Group Internasional</strong>) menghadirkan pelayanan ibadah umroh dan haji plus dengan bimbingan rohani sesuai sunnah dan akomodasi hotel bintang lima dekat masjid.
+                        <strong>Rahmah Travel</strong> (unit usaha <strong>PT Rahmah Group Internasional</strong>) menghadirkan pelayanan ibadah umroh dan haji plus dengan bimbingan rohani sesuai sunnah dan akomodasi hotel bintang lima dekat masjid.
                     </p>
                     <div class="flex flex-wrap gap-4">
                         <a href="{{ route('packages.index') }}"

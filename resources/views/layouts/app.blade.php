@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@yield('title', 'Rahmah Travel - Biro Perjalanan Umroh & Haji Khusus Resmi')</title>
-    <meta name="description" content="Rahmah Travel unit usaha Rahmah Group Internasional. Melayani ibadah umroh dan haji plus dengan fasilitas hotel bintang lima dan bimbingan sesuai sunnah.">
+    <meta name="description" content="Rahmah Travel unit usaha PT Rahmah Group Internasional. Melayani ibadah umroh dan haji plus dengan fasilitas hotel bintang lima dan bimbingan sesuai sunnah.">
 
     <!-- Tailwind CSS via NPM / Vite (Bukan CDN) -->
     @if (file_exists(public_path('build/manifest.json')) || file_exists(public_path('hot')))
@@ -19,7 +19,7 @@
     <div class="bg-emerald-800 text-emerald-100 text-xs py-2 px-4 border-b border-emerald-700">
         <div class="max-w-6xl mx-auto flex flex-col sm:flex-row justify-between items-center gap-2">
             <div class="flex items-center gap-3">
-                <span class="font-semibold text-emerald-300">RAHMAH GROUP INTERNASIONAL</span>
+                <span class="font-semibold text-emerald-300">PT RAHMAH GROUP INTERNASIONAL</span>
                 <span class="hidden md:inline">&bull;</span>
                 <span class="hidden md:inline">Izin Resmi PPIU No. U.421 Kemenag RI</span>
             </div>
@@ -42,7 +42,7 @@
                     </div>
                     <div>
                         <span class="text-xl font-bold text-emerald-800 block leading-tight">Rahmah Travel</span>
-                        <span class="text-xs text-gray-500 font-medium">Rahmah Group Internasional</span>
+                        <span class="text-xs text-gray-500 font-medium">PT Rahmah Group Internasional</span>
                     </div>
                 </a>
 
@@ -127,7 +127,7 @@
                         <span class="text-lg font-bold text-white">Rahmah Travel</span>
                     </div>
                     <p class="text-xs text-gray-400 leading-relaxed mb-4">
-                        Penyelenggara Perjalanan Ibadah Umroh (PPIU) dan Haji Khusus terpercaya di bawah naungan <strong>Rahmah Group Internasional</strong>. Melayani dengan amanah, profesional, dan sesuai sunnah.
+                        Penyelenggara Perjalanan Ibadah Umroh (PPIU) dan Haji Khusus terpercaya di bawah naungan <strong>PT Rahmah Group Internasional</strong>. Melayani dengan amanah, profesional, dan sesuai sunnah.
                     </p>
                     <div class="text-xs text-emerald-400 font-semibold">
                         SK Kemenag RI PPIU No. U.421
@@ -176,7 +176,7 @@
             </div>
 
             <div class="mt-8 pt-6 border-t border-gray-800 flex flex-col sm:flex-row justify-between items-center text-xs text-gray-500 gap-2">
-                <p>&copy; {{ date('Y') }} Rahmah Travel - Rahmah Group Internasional. All rights reserved.</p>
+                <p>&copy; {{ date('Y') }} Rahmah Travel - PT Rahmah Group Internasional. All rights reserved.</p>
                 <p>Tugas Praktikum Rekayasa Web - Pertemuan 7</p>
             </div>
         </div>

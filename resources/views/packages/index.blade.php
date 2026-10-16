@@ -13,7 +13,7 @@
                     </span>
                     <h1 class="text-3xl sm:text-4xl font-extrabold">Daftar Paket Umroh &amp; Haji</h1>
                     <p class="text-emerald-200 text-sm mt-1">
-                        Pilihan paket ibadah resmi dari Rahmah Travel (Rahmah Group Internasional) dengan fasilitas hotel bintang dekat masjid.
+                        Pilihan paket ibadah resmi dari Rahmah Travel (PT Rahmah Group Internasional) dengan fasilitas hotel bintang dekat masjid.
                     </p>
                 </div>
                 <div class="bg-emerald-800/80 p-3 rounded-lg border border-emerald-700 text-xs text-emerald-200">

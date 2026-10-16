@@ -23,7 +23,7 @@ class CompanyProfileTest extends TestCase
 
         $response->assertStatus(200);
         $response->assertSee('Rahmah Travel');
-        $response->assertSee('Rahmah Group Internasional');
+        $response->assertSee('PT Rahmah Group Internasional');
         $response->assertSee('Beranda');
         $response->assertSee('Tentang Kami');
         $response->assertSee('Paket Umroh');

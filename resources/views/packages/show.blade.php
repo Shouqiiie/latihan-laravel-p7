@@ -82,7 +82,7 @@
                                     </tr>
                                     <tr>
                                         <td class="px-4 py-3 font-semibold text-gray-900">Legalitas &amp; Izin</td>
-                                        <td class="px-4 py-3">PPIU Kemenag RI No. U.421 (Rahmah Group)</td>
+                                        <td class="px-4 py-3">PPIU Kemenag RI No. U.421 (PT Rahmah Group Internasional)</td>
                                     </tr>
                                 </tbody>
                             </table>

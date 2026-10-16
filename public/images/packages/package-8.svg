@@ -54,7 +54,7 @@
   <!-- Footer Info in Card -->
   <line x1="50" y1="260" x2="590" y2="260" stroke="rgba(255,255,255,0.15)" stroke-width="1" />
   
-  <text x="50" y="300" fill="#fde68a" font-family="sans-serif" font-size="13" font-weight="bold">RAHMAH TRAVEL &bull; RAHMAH GROUP INTERNASIONAL</text>
+  <text x="50" y="300" fill="#fde68a" font-family="sans-serif" font-size="13" font-weight="bold">RAHMAH TRAVEL &bull; PT RAHMAH GROUP INTERNASIONAL</text>
   <text x="50" y="325" fill="rgba(255,255,255,0.7)" font-family="sans-serif" font-size="12">PPIU No. U.421 Kemenag RI &bull; Pasti Berangkat, Pasti Berkah</text>
   
   <g transform="translate(480, 290)">
